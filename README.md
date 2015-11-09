@@ -9,4 +9,4 @@ Hey! I'm your **README** Markdown document for this class.  We'll eventually add
 
 Sign-in below
 -------------
-Rene Vogt-Lowell was NOT here 2015-03-13
+Ravi was here 2015-03-13
